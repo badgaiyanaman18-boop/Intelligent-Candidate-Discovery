@@ -1,1 +1,6 @@
-
+Candidate_ID,Name,Skills,Experience,Certifications,Education
+C001,John Doe,"Python,AWS,Machine Learning",4,"AWS Solutions Architect Associate",B.Tech
+C002,Alice Smith,"Python,Azure,Data Science",3,"Azure AI Engineer Associate",M.Tech
+C003,David Brown,"Java,Spring Boot,Docker",5,"AWS Developer Associate",B.Tech
+C004,Sarah Wilson,"Python,AWS,Deep Learning",6,"AWS Solutions Architect Professional",M.Tech
+C005,Michael Lee,"Python,Machine Learning,TensorFlow",2,"Google Professional ML Engineer",B.Tech
