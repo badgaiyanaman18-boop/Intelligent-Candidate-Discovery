@@ -1,1 +1,6 @@
-
+Rank,Candidate_ID,Name,Final_Score
+1,C004,Sarah Wilson,0.95
+2,C001,John Doe,0.91
+3,C005,Michael Lee,0.88
+4,C002,Alice Smith,0.84
+5,C003,David Brown,0.70
